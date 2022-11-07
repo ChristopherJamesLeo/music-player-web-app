@@ -19,34 +19,34 @@ let updateTimer ;
 
 const music_list = [
     {
-        img : "/music_list/christina_parris.jpg",
+        img : "./music_list/christina_parris.jpg",
         name : "A Thousand Years",
         artist : "christina_parris",
-        music : "/music_list/Christina_Perri_A_Thousand_Years_Official_Music.mp3"
+        music : "./music_list/Christina_Perri_A_Thousand_Years_Official_Music.mp3"
     },
     {
-        img : "/music_list/justin-bieber-te-220906-50b634.jpg",
+        img : "./music_list/justin-bieber-te-220906-50b634.jpg",
         name : "I am The One",
         artist : "Justin Bieber",
-        music : "/music_list/DJ_Khaled_I_m_The_One_ft_Justin_Bieber_Quavo_.mp3"
+        music : "./music_list/DJ_Khaled_I_m_The_One_ft_Justin_Bieber_Quavo_.mp3"
     },
     {
-        img : "/music_list/one_direction.jpg",
+        img : "./music_list/one_direction.jpg",
         name : "Moving The Night",
         artist : "One Direction",
-        music : "/music_list/Swinging_Mix_Moving_Through_the_Night.mp3"
+        music : "./music_list/Swinging_Mix_Moving_Through_the_Night.mp3"
     },
     {
-        img : "/music_list/dj1.jpg",
+        img : "./music_list/dj1.jpg",
         name : "DJ 1",
         artist : "DJ 1",
-        music : "/music_list/Tie_Me_Down_Remix_2020_TikTok_DJ_Revanila_Ful.mp3"
+        music : "./music_list/Tie_Me_Down_Remix_2020_TikTok_DJ_Revanila_Ful.mp3"
     },
     {
-        img : "/music_list/dj2.jpg",
+        img : "./music_list/dj2.jpg",
         name : "All Falls Down",
         artist : "Syleen Johnson",
-        music : "/music_list/Kanye_West_All_Falls_Down_ft_Syleena_Johnson.mp3"
+        music : "./music_list/Kanye_West_All_Falls_Down_ft_Syleena_Johnson.mp3"
     }
 ]
 
