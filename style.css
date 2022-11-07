@@ -125,7 +125,7 @@ i.fa-step-backward {
     height: 150%;
     width: 10px;
     border-radius: 50px;
-    margin: 0px 50px;
+    margin: 0px 30px;
     /* animation: name duration timing-function delay iteration-count direction fill-mode; */
     animation: animate 1.4s linear calc(0.3s * var(--delay)) infinite;
 }
